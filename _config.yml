@@ -1,0 +1,28 @@
+name: tester1
+favicon: null
+layout_spectrum: 0.54028490325436
+typography_spectrum: 0.5508002790156752
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.009698018431663513
+  lightness: 0.8501879828982055
+  saturation: 0.6389886338729411
+  rhythmicContrast: 0.990112880943343
+purpose: []
